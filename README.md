@@ -2,6 +2,7 @@
 
 ## Sample Visuals
 
+![image](https://github.com/user-attachments/assets/c9b11b85-2727-435d-b356-f8908e3aeb9c)
 
 ![image](https://github.com/user-attachments/assets/0472ea04-4330-4b54-b05a-8c22f46bf202)
 
