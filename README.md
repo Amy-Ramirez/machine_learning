@@ -54,8 +54,8 @@ This is a **multi-class classification problem** with an **imbalanced dataset** 
 
 ![image](https://github.com/user-attachments/assets/c9b11b85-2727-435d-b356-f8908e3aeb9c)
 
+![image](https://github.com/user-attachments/assets/2bb1e45b-b1d8-4320-b30f-f5c0af990764)
 
-![image](https://github.com/user-attachments/assets/aa8cadb5-8573-420d-b0a0-78da284423f3)
 
 
 This project was submitted as part of the Machine Learning module in the Big Data & Data Science Master's program.
