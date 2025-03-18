@@ -58,4 +58,4 @@ This is a **multi-class classification problem** with an **imbalanced dataset** 
 
 
 
-This project was submitted as part of the Machine Learning module in the Big Data & Data Science Master's program.
+This project reflects foundational knowledge in machine learning workflows, including data preprocessing, model training, and evaluation.
